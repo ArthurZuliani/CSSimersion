@@ -1,0 +1,45 @@
+body 
+{  
+  background-color:#9932CC;
+  background-image: url('https://c8.alamy.com/comp/2AJR02W/moraine-lake-during-summer-in-banff-national-park-canadian-rockies-alberta-canada-2AJR02W.jpg'); 
+  background-size: auto 100vh;
+  height: 100vh;
+  font-family:Arial;
+}
+
+.menu
+{
+  background-color:white;
+}
+.menu li
+{
+  list-style: none;
+}
+.menu ul
+{
+  display: flex;
+  justify-content: space-around;
+}
+
+a 
+{
+  text-decoration: none;  
+  color: 	#8A2BE2;
+}
+
+a:hover
+{
+  text-decoration:underline;
+}
+
+.site-subtitle,
+.site-title
+{
+  color: whitesmoke;
+  text-align: center;
+}
+
+.site-subtitle
+{
+  font-style: italic;
+}
